@@ -16,3 +16,9 @@
 - Conditional Statement
 - Logical Operators
 - Code Blocks and Scope
+
+### Day-04
+- Randomisation
+  - Read the official docs: [Click here](https://docs.python.org/3/library/random.html)
+- Module
+- Python List
