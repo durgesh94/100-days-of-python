@@ -22,3 +22,10 @@
   - Read the official docs: [Click here](https://docs.python.org/3/library/random.html)
 - Module
 - Python List
+
+### Day-05
+- For Loops
+- Range and Code Blocks
+- Projects
+  - FizzBuzz
+  - Password Generator
