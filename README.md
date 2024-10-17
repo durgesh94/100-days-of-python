@@ -25,7 +25,28 @@
 
 ### Day-05
 - For Loops
+  ```
+    for item in list_of_items:
+      #Do something to each item
+  ```
 - Range and Code Blocks
+  ```
+    for number in range(a, b):
+      print(number)
+  ```
 - Projects
   - FizzBuzz
   - Password Generator
+
+### Day-06
+- Indentation
+- Functions
+  - Build-in Functions
+  - User-defined Functions
+- While Loops
+  ```
+  while something_is_true:
+    #Do something repeatedly
+  ```
+- Projects
+  - Escaping the Maze 
