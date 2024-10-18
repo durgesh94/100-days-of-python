@@ -42,7 +42,18 @@
 - Indentation
 - Functions
   - Build-in Functions
+    ``` 
+      print()
+      len()
+      type()
+    ```
   - User-defined Functions
+    ```
+      def my_fun():
+        #do something
+    
+      my_fun()
+    ```
 - While Loops
   ```
   while something_is_true:
@@ -55,3 +66,37 @@
 - Projects
   - Hangman 
     - Flow Chart
+
+### Day-08
+- Functions with Inputs
+  ```
+  def my_fun(something):
+    #Do with this something
+    #Then do this
+    #Finally do this
+  
+  my_fun(123)
+  ```
+- Positional vs. Keyword Arguments
+  ``` 
+  # Positional Arguments
+  def my_fun(a, b, c):
+    #Do this with a
+    #Then do this with b
+    #Finally do this with c
+  
+  my_fun(1, 2, 3)
+  ```
+  ```
+  # Keyword Arguments
+  def my_fun(a, b, c):
+    #Do this with a
+    #Then do this with b
+    #Finally do this with c
+  
+  my_fun(a=1, b=2, c=3) 
+  ```
+- Projects
+  - Love Calculator
+  - Life in Weeks
+  - Caesar Cipher
