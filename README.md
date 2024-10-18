@@ -124,3 +124,17 @@
 - Projects
   - Grading 
   - Auction
+
+### Day-10
+- Docstrings
+- Functions with Outputs
+  ``` 
+  def my_fun():
+    result = 5 + 2
+    return result
+  
+  output = my_fun()
+  ```
+- Projects
+  - Calculator
+  - Leap Year
